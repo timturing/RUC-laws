@@ -5,6 +5,10 @@
 
 参考文献部分由于是列出主要的，所以全部的文献我们放在Reference文件夹中。
 
+如果想访问我们的完整代码请从百度网盘下载:
+链接：https://pan.baidu.com/s/1MWy2RaFSU6CsmYMq0o-5PA?pwd=wo0g 
+提取码：wo0g
+
 ## 参考的数据及代码
 Attr数据 https://thunlp.oss-cn-qingdao.aliyuncs.com/attribute_charge.zip
 Bert 模型参考实现 https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
