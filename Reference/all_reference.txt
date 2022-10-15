@@ -1,0 +1,47 @@
+﻿[1] 李舟军, 范宇, 吴贤杰.面向自然语言处理的预训练技术研究综述[J].计算机科学,2020, 47 (3): 162-173.
+[2] 王婉臻, 饶元, 吴连伟, et al.基于人工智能的司法判决预测研究与进展[J].中文信息学报,2021, 35 (9): 1-14.
+[3] Chen H, Cai D, Dai W, et al.Charge-based prison term prediction with deep gating network[J].arXiv preprint arXiv:1908.11521,2019.
+[4] Collobert R, Weston J. A unified architecture for natural language processing: Deep neural networks with multitask learning[C].Proceedings of the 25th international conference on Machine learning,2008: 160-167.
+[5] Conneau A, Kiela D, Schwenk H, et al.Supervised learning of universal sentence representations from natural language inference data[J].arXiv preprint arXiv:1705.02364,2017.
+[6] Dai A M, Le Q V.Semi-supervised sequence learning[J].Advances in neural information processing systems,2015, 28.
+[7] Deng J, Dong W, Socher R, et al. Imagenet: A large-scale hierarchical image database[C].2009 IEEE conference on computer vision and pattern recognition,2009: 248-255.
+[8] Devlin J, Chang M-W, Lee K, et al.Bert: Pre-training of deep bidirectional transformers for language understanding[J].arXiv preprint arXiv:1810.04805,2018.
+[9] Fedus W, Goodfellow I, Dai A M.Maskgan: better text generation via filling in the_[J].arXiv preprint arXiv:1801.07736,2018.
+[10] Gao T, Han X, Liu Z, et al. Hybrid attention-based prototypical networks for noisy few-shot relation classification[C].Proceedings of the AAAI Conference on Artificial Intelligence,2019: 6407-6414.
+[11] Geng R, Li B, Li Y, et al.Few-shot text classification with induction network[J].arXiv preprint arXiv:1902.10482,2019.
+[12] He K, Zhang X, Ren S, et al. Deep residual learning for image recognition[C].Proceedings of the IEEE conference on computer vision and pattern recognition,2016: 770-778.
+[13] Howard J, Ruder S.Universal language model fine-tuning for text classification[J].arXiv preprint arXiv:1801.06146,2018.
+[14] Hu Z, Li X, Tu C, et al. Few-shot charge prediction with discriminative legal attributes[C].Proceedings of the 27th International Conference on Computational Linguistics,2018: 487-498.
+[15] Keown R.Mathematical models for legal prediction[J].Computer/lj,1980, 2: 829.
+[16] Kiros R, Zhu Y, Salakhutdinov R R, et al.Skip-thought vectors[J].Advances in neural information processing systems,2015, 28.
+[17] Kort F.Predicting Supreme Court decisions mathematically: A quantitative analysis of the “right to counsel” cases[J].American Political Science Review,1957, 51 (1): 1-12.
+[18] Le Q, Mikolov T. Distributed representations of sentences and documents[C].International conference on machine learning,2014: 1188-1196.
+[19] Lin W-C, Kuo T-T, Chang T-J, et al.Exploiting machine learning models for chinese legal documents labeling, case classification, and sentencing prediction[J].Processdings of ROCLING,2012, 17 (4): 140.
+[20] Liu P, Yuan W, Fu J, et al.Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing[J].arXiv preprint arXiv:2107.13586,2021.
+[21] Liu Z, Tu C, Sun M. Legal cause prediction with inner descriptions and outer hierarchies[C].China National Conference on Chinese Computational Linguistics,2019: 573-586.
+[22] Logeswaran L, Lee H.An efficient framework for learning sentence representations[J].arXiv preprint arXiv:1803.02893,2018.
+[23] Mackaay E, Robillard P.Predicting judicial decisions: The nearest neighbour rule and visual representation of case patterns[J],1974.
+[24] Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer. Deep contextualized word representations[C].Proc. of NAACL,2018.
+[25] Mccann B, Bradbury J, Xiong C, et al.Learned in translation: Contextualized word vectors[J].Advances in neural information processing systems,2017, 30.
+[26] Melamud O, Goldberger J, Dagan I. context2vec: Learning generic context embedding with bidirectional lstm[C].Proceedings of the 20th SIGNLL conference on computational natural language learning,2016: 51-61.
+[27] Mikolov T, Sutskever I, Chen K, et al.Distributed representations of words and phrases and their compositionality[J].Advances in neural information processing systems,2013, 26.
+[28] Mnih A, Hinton G E.A scalable hierarchical distributed language model[J].Advances in neural information processing systems,2008, 21.
+[29] Nagel S.Reapportionment and the Courts: A Survey of Recent Cases. By James E. Larson.(University, Ala.: Bureau of Public Administration, 1962. Pp. vii, 92.)[J].American Political Science Review,1963, 57 (1): 189-189.
+[30] Pan S, Lu T, Gu N, et al. Charge prediction for multi-defendant cases with multi-scale attention[C].CCF Conference on Computer Supported Cooperative Work and Social Computing,2019: 766-777.
+[31] Pennington J, Socher R, Manning C D. Glove: Global vectors for word representation[C].Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP),2014: 1532-1543.
+[32] Peters M E, Ammar W, Bhagavatula C, et al.Semi-supervised sequence tagging with bidirectional language models[J].arXiv preprint arXiv:1705.00108,2017.
+[33] Radford A, Narasimhan K, Salimans T, et al.Improving language understanding with unsupervised learning[J],2018.
+[34] Rajpurkar P, Zhang J, Lopyrev K, et al.Squad: 100,000+ questions for machine comprehension of text[J].arXiv preprint arXiv:1606.05250,2016.
+[35] Sang E F, De Meulder F.Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition[J].arXiv preprint cs/0306050,2003.
+[36] Socher R, Perelygin A, Wu J, et al. Recursive deep models for semantic compositionality over a sentiment treebank[C].Proceedings of the 2013 conference on empirical methods in natural language processing,2013: 1631-1642.
+[37] Sulea O-M, Zampieri M, Malmasi S, et al.Exploring the use of text classification in the legal domain[J].arXiv preprint arXiv:1710.09306,2017.
+[38] Wang A, Singh A, Michael J, et al.GLUE: A multi-task benchmark and analysis platform for natural language understanding[J].arXiv preprint arXiv:1804.07461,2018.
+[39] Wang P, Fan Y, Niu S, et al. Hierarchical matching network for crime classification[C].proceedings of the 42nd international ACM SIGIR conference on research and development in information retrieval,2019: 325-334.
+[40] Xiao C, Hu X, Liu Z, et al.Lawformer: A pre-trained language model for chinese legal long documents[J].AI Open,2021, 2: 79-84.
+[41] Xu H, Liu B, Shu L, et al. Open-world learning and application to product classification[C].The World Wide Web Conference,2019: 3413-3419.
+[42] Xu H, Liu B, Shu L, et al.Lifelong domain word embedding via meta-learning[J].arXiv preprint arXiv:1805.09991,2018.
+[43] Xu N, Wang P, Chen L, et al.Distinguish confusing law articles for legal judgment prediction[J].arXiv preprint arXiv:2004.02557,2020.
+[44] Yosinski J, Clune J, Bengio Y, et al.How transferable are features in deep neural networks?[J].Advances in neural information processing systems,2014, 27.
+[45] Yu M, Guo X, Yi J, et al.Diverse few-shot text classification with multiple metrics[J].arXiv preprint arXiv:1805.07513,2018.
+[46] Yue L, Liu Q, Jin B, et al. NeurJudge: a circumstance-aware neural framework for legal judgment prediction[C].Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval,2021: 973-982.
+[47] Zhang H, Dou Z, Zhu Y, et al. Few-Shot Charge Prediction with Multi-grained Features and Mutual Information[C].China National Conference on Chinese Computational Linguistics,2021: 387-403.

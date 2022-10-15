@@ -1,0 +1,10 @@
+﻿[1] 王婉臻, 饶元, 吴连伟, et al.基于人工智能的司法判决预测研究与进展[J].中文信息学报,2021, 35 (9): 1-14.
+[2] Hu Z, Li X, Tu C, et al. Few-shot charge prediction with discriminative legal attributes[C].Proceedings of the 27th International Conference on Computational Linguistics,2018: 487-498.
+[3] Zhang H, Dou Z, Zhu Y, et al. Few-Shot Charge Prediction with Multi-grained Features and Mutual Information[C].China National Conference on Chinese Computational Linguistics,2021: 387-403.
+[4] Devlin J, Chang M-W, Lee K, et al.Bert: Pre-training of deep bidirectional transformers for language understanding[J].arXiv preprint arXiv:1810.04805,2018.
+[5] 李舟军, 范宇, 吴贤杰.面向自然语言处理的预训练技术研究综述[J].计算机科学,2020, 47 (3): 162-173.
+[6] Xiao C, Hu X, Liu Z, et al.Lawformer: A pre-trained language model for chinese legal long documents[J].AI Open,2021, 2: 79-84.
+[7] Yue L, Liu Q, Jin B, et al. NeurJudge: a circumstance-aware neural framework for legal judgment prediction[C].Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval,2021: 973-982.
+[8] Liu P, Yuan W, Fu J, et al.Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing[J].arXiv preprint arXiv:2107.13586,2021.
+[9] He K, Zhang X, Ren S, et al. Deep residual learning for image recognition[C].Proceedings of the IEEE conference on computer vision and pattern recognition,2016: 770-778.
+
